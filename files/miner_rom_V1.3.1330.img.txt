@@ -1,0 +1,197 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+728           0x2D8           Ubiquiti partition header, header size: 56 bytes, name: "PARTITION", base address: 0x00000000, data size: 0 bytes
+984           0x3D8           Ubiquiti partition header, header size: 56 bytes, name: "PARTITION", base address: 0x61646500, data size: 0 bytes
+1240          0x4D8           Ubiquiti partition header, header size: 56 bytes, name: "PARTITION", base address: 0x6C6F6164, data size: 0 bytes
+13702         0x3586          Unix path: /home/vincent/samba/S805/develop/buildroot/output/build/uboot-local/arch/arm/cpu/aml_meson/m8b/firmware/ddr.c
+14011         0x36BB          Unix path: /home/vincent/samba/S805/develop/buildroot/output/build/uboot-local/arch/arm/cpu/aml_meson/m8b/firmware/pll.c
+423304        0x67588         Android bootimg, kernel size: 4792169 bytes, kernel addr: 0x10008000, ramdisk size: 1479538 bytes, ramdisk addr: 0x11000000, product name: ""
+425352        0x67D88         uImage header, header size: 64 bytes, header CRC: 0xD6ADBBD4, created: 2015-07-20 05:49:31, image size: 4792105 bytes, Data Address: 0x208000, Entry Point: 0x208000, data CRC: 0xDD4AD31F, OS: Linux, CPU: ARM, image type: OS Kernel Image, image name: "Linux-3.10.33"
+425416        0x67DC8         LZO compressed data
+5217672       0x4F9D88        gzip compressed data, maximum compression, has original file name: "rootfs.cpio", from Unix, last modified: 2015-07-20 05:49:39
+6715792       0x667990        UBIFS filesystem superblock node, CRC: 0xFD0F7480, flags: 0x0, min I/O unit size: 2048, erase block size: 126976, erase block count: 178, max erase blocks: 704, format version: 4, compression type: lzo
+6842768       0x686990        UBIFS filesystem master node, CRC: 0xF5F11D5B, highest inode: 1697, commit number: 0
+6969744       0x6A5990        UBIFS filesystem master node, CRC: 0xF9C1E846, highest inode: 1697, commit number: 0
+8115025       0x7BD351        Unix path: /wiPgL/AlmXz7uxLaL2diMMxs0Dx6M/2OLuc5NF/1OVYm3z61PMO
+8122767       0x7BF18F        Unix path: /D0UrSpUwjP4E/TelOL/bscVjby/rK25Xa71SJl
+8132153       0x7C1639        Unix path: /Jkjd/14Et5cS54D40/mf0PmbR0/RAz15i
+8140217       0x7C35B9        Unix path: /7EpFIKrIYwvF/k/Ji/1WcbvgAa3mkkp7M5+cTxq
+8157327       0x7C788F        Unix path: /4gbIOZ/xWqndIlgVqIrTseYyCYIDbNc/CMf4uboAbbnW/FIyXaR/pDGUu7ZM
+8161417       0x7C8889        Unix path: /ZR6By6/qmW6/KUz/iDsaWVhFu9+lmqSbYf5VT7QqFiLpPKaVCjF62/IUg
+8177941       0x7CC915        Unix path: /igPs6eD1sNuRMBhNZYW/lmci3Zt1/GiSw0r/wty2p5g0I6QNcZ4
+8206469       0x7D3885        Unix path: /ThdDc7d8Lsrlh/eezJS/R27tQahsiFepdaVaH/w
+8214409       0x7D5789        Unix path: /gBVsIdU6CeQNR1MM62X/JcumIS/LMmjv9GYERTtY/jKmIhYF5ntRQOXfjyG
+8225978       0x7D84BA        Broadcom header, number of sections: 1230121828,
+8244168       0x7DCBC8        Unix path: /xhnaQr/2v/pDGj59/i5IjnOcVdo/Vi5QTcmn7
+8254715       0x7DF4FB        Unix path: /WwYjnPbFfiTNKRCw51KBuav/0aQ/HKd/s7j2G4aSgWQgRecCocIdiP4b0j
+8288945       0x7E7AB1        Unix path: /h0TD/7Gh0Xp/jKgGg0TpJRVcaUWi7rKibCyx/yP2FS1k2Kdzs9Z+z0Y
+8299401       0x7EA389        Unix path: /ufLqGU5ywck9G/GwGHU5nOp/UKIXZ3/6m3xnOUHN
+8307461       0x7EC305        Unix path: /4NZzkQqL/7hzmAD/I0Dpe3/a6i6zDQGn1k19uwsu537jVJp45wnEFPzpALFp/kR
+8339425       0x7F3FE1        Executable script, shebang: "/bin/sh"
+8339832       0x7F4178        Executable script, shebang: "/bin/sh"
+8340224       0x7F4300        Executable script, shebang: "/bin/sh"
+8340616       0x7F4488        Executable script, shebang: "/bin/sh"
+8341449       0x7F47C9        Executable script, shebang: "/bin/sh"
+8343897       0x7F5159        Executable script, shebang: "/bin/sh"
+8345113       0x7F5619        Executable script, shebang: "/bin/sh"
+8345897       0x7F5929        Executable script, shebang: "/bin/sh"
+8346897       0x7F5D11        Executable script, shebang: "/bin/sh"
+8347456       0x7F5F40        Executable script, shebang: "/bin/sh"
+8350441       0x7F6AE9        Executable script, shebang: "/bin/sh"
+8350985       0x7F6D09        Executable script, shebang: "/bin/sh"
+8352017       0x7F7111        Executable script, shebang: "/bin/sh"
+8353049       0x7F7519        Executable script, shebang: "/bin/sh"
+8354129       0x7F7951        Executable script, shebang: "/bin/sh"
+8355049       0x7F7CE9        Executable script, shebang: "/bin/sh"
+8355673       0x7F7F59        Executable script, shebang: "/bin/sh "
+8356281       0x7F81B9        Executable script, shebang: "/bin/sh"
+8356921       0x7F8439        Executable script, shebang: "/bin/sh"
+8357000       0x7F8488        Unix path: /proc/sys/kernel/hotplug
+8369729       0x7FB641        Executable script, shebang: "/bin/sh"
+8377257       0x7FD3A9        Executable script, shebang: "/usr/bin/awk"
+8598916       0x833584        HTML document header
+8666937       0x843F39        Copyright string: "Copyright (c) 2002-S"
+8706262       0x84D8D6        Copyright string: "Copyright (C) 2011-P"
+8710775       0x84EA77        mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+8854689       0x871CA1        Executable script, shebang: "/bin/sh"
+8879170       0x877C42        Copyright string: "Copyright (C) 2005-S"
+8922381       0x88250D        Copyright string: "Copyright (c)"
+8940424       0x886B88        Copyright string: "Copyright (c) 2003 Li!L"
+8964489       0x88C989        Executable script, shebang: "/bin/sh"
+9026751       0x89BCBF        Copyright string: "Copyright (C) 2005-S"
+9230627       0x8CD923        HTML document header
+9476798       0x909ABE        Base64 standard index table
+9723640       0x945EF8        CRC32 polynomial table, big endian
+9727811       0x946F43        Copyright string: "Copyright 1995-2013 Jean-loup Gailly and Mark Adler "
+10026476      0x98FDEC        mcrypt 2.5 encrypted data, algorithm: ""\ ,H", keysize: 2128 bytes, mode: "(",
+10410795      0x9EDB2B        Certificate in DER format (x509 v3), header length: 4, sequence length: 8669
+10499434      0xA0356A        mcrypt 2.5 encrypted data, algorithm: "", keysize: 773 bytes, mode: "M",
+10642090      0xA262AA        mcrypt 2.5 encrypted data, algorithm: ")}", keysize: 10500 bytes, mode: "}",
+10655624      0xA29788        Base64 standard index table
+11083854      0xA9204E        Base64 standard index table
+11464969      0xAEF109        Executable script, shebang: "/bin/sh"
+11690079      0xB2605F        mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+11690247      0xB26107        mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+11690423      0xB261B7        mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+12283017      0xBB6C89        Executable script, shebang: "/bin/sh"
+12283393      0xBB6E01        Executable script, shebang: "/bin/sh"
+12283777      0xBB6F81        Executable script, shebang: "/bin/sh"
+12306539      0xBBC86B        Copyright string: "Copyright (c]  @"
+12310657      0xBBD881        Executable script, shebang: "/usr/bin/env python"
+12362987      0xBCA4EB        Certificate in DER format (x509 v3), header length: 4, sequence length: 1284
+12422665      0xBD8E09        Executable script, shebang: "/bin/bash -p"
+13315792      0xCB2ED0        Copyright string: "Copyright (C) 2000 Arcom Control Systems Ltd"
+13393876      0xCC5FD4        CRC32 polynomial table, big endian
+13402217      0xCC8069        Executable script, shebang: "/bin/sh"
+13527459      0xCE69A3        Unix path: /proc/fs/nfsd/threads
+13979158      0xD54E16        xz compressed data
+14092484      0xD708C4        Certificate in DER format (x509 v3), header length: 4, sequence length: 3626
+14095662      0xD7152E        Certificate in DER format (x509 v3), header length: 4, sequence length: 3655
+14508787      0xDD62F3        Unix path: /sysroot/usr/include/bits
+14510330      0xDD68FA        Unix path: /sysroot/usr/include/bits
+14816167      0xE213A7        CramFS filesystem, big endian size 1 CRC 0x475F7879, edition 1596116007, 158101351 blocks, 4477506 files
+15344654      0xEA240E        SHA256 hash constants, little endian
+15352123      0xEA413B        Unix path: /drivers/char/hw_random/rng-core.ko:
+15357434      0xEA55FA        Unix path: /drivers/char/hw_random/rng-core.ko
+16208484      0xF75264        mcrypt 2.5 encrypted data, algorithm: ")}", keysize: 11560 bytes, mode: "|",
+16212209      0xF760F1        Unix path: /wiPgL/AlmXz7uxLaL2diMMxs0Dx6M/2OLuc5NF/1OVYm3z61PMO
+16219951      0xF77F2F        Unix path: /D0UrSpUwjP4E/TelOL/bscVjby/rK25Xa71SJl
+16229337      0xF7A3D9        Unix path: /Jkjd/14Et5cS54D40/mf0PmbR0/RAz15i
+16240281      0xF7CE99        Unix path: /7EpFIKrIYwvF/k/Ji/1WcbvgAa3mkkp7M5+cTxq
+16257391      0xF8116F        Unix path: /4gbIOZ/xWqndIlgVqIrTseYyCYIDbNc/CMf4uboAbbnW/FIyXaR/pDGUu7ZM
+16261481      0xF82169        Unix path: /ZR6By6/qmW6/KUz/iDsaWVhFu9+lmqSbYf5VT7QqFiLpPKaVCjF62/IUg
+16278005      0xF861F5        Unix path: /igPs6eD1sNuRMBhNZYW/lmci3Zt1/GiSw0r/wty2p5g0I6QNcZ4
+16306533      0xF8D165        Unix path: /ThdDc7d8Lsrlh/eezJS/R27tQahsiFepdaVaH/w
+16314473      0xF8F069        Unix path: /gBVsIdU6CeQNR1MM62X/JcumIS/LMmjv9GYERTtY/jKmIhYF5ntRQOXfjyG
+16326042      0xF91D9A        Broadcom header, number of sections: 1230121828,
+16342432      0xF95DA0        Unix path: /xhnaQr/2v/pDGj59/i5IjnOcVdo/Vi5QTcmn7
+16352979      0xF986D3        Unix path: /WwYjnPbFfiTNKRCw51KBuav/0aQ/HKd/s7j2G4aSgWQgRecCocIdiP4b0j
+16387497      0xFA0DA9        Unix path: /h0TD/7Gh0Xp/jKgGg0TpJRVcaUWi7rKibCyx/yP2FS1k2Kdzs9Z+z0Y
+16397953      0xFA3681        Unix path: /ufLqGU5ywck9G/GwGHU5nOp/UKIXZ3/6m3xnOUHN
+16406013      0xFA55FD        Unix path: /4NZzkQqL/7hzmAD/I0Dpe3/a6i6zDQGn1k19uwsu537jVJp45wnEFPzpALFp/kR
+16437977      0xFAD2D9        Executable script, shebang: "/bin/sh"
+16439193      0xFAD799        Executable script, shebang: "/bin/sh"
+16439977      0xFADAA9        Executable script, shebang: "/bin/sh"
+16440977      0xFADE91        Executable script, shebang: "/bin/sh"
+16441536      0xFAE0C0        Executable script, shebang: "/bin/sh"
+16442833      0xFAE5D1        Executable script, shebang: "/bin/sh"
+16651268      0xFE1404        HTML document header
+16884123      0x101A19B       HTML document header
+17045494      0x10417F6       Base64 standard index table
+17626931      0x10CF733       Certificate in DER format (x509 v3), header length: 4, sequence length: 8669
+17715954      0x10E52F2       mcrypt 2.5 encrypted data, algorithm: "", keysize: 773 bytes, mode: "M",
+17859618      0x1108422       mcrypt 2.5 encrypted data, algorithm: ")}", keysize: 10500 bytes, mode: "}",
+17871768      0x110B398       Base64 standard index table
+18145382      0x114E066       Base64 standard index table
+18178481      0x11561B1       Executable script, shebang: "/bin/sh"
+18192521      0x1159889       Executable script, shebang: "/bin/sh"
+18295212      0x11729AC       Certificate in DER format (x509 v3), header length: 4, sequence length: 3626
+18298390      0x1173616       Certificate in DER format (x509 v3), header length: 4, sequence length: 3655
+18714779      0x11D909B       Unix path: /sysroot/usr/include/bits
+18716322      0x11D96A2       Unix path: /sysroot/usr/include/bits
+19169307      0x124801B       Certificate in DER format (x509 v3), header length: 4, sequence length: 3626
+19172487      0x1248C87       Certificate in DER format (x509 v3), header length: 4, sequence length: 3655
+19355465      0x1275749       Executable script, shebang: "/bin/sh"
+19357009      0x1275D51       Unix path: /update.peiluyou.com/conf/miner/packages
+19357977      0x1276119       Executable script, shebang: "/bin/sh"
+19359281      0x1276631       Unix path: /update.peiluyou.com/conf/miner/packages
+20607009      0x13A7021       Unix path: /home/alex/work/dcdn_lib_v2/zlog/src/conf.c
+20613192      0x13A8848       Unix path: /home/alex/work/dcdn_lib_v2/fsH
+20614985      0x13A8F49       Unix path: /home/alex/work/dcdn_lib_v2/fsH
+21142601      0x1429C49       Copyright string: "Copyright (C) 2000,t"
+21368191      0x1460D7F       Unix path: /sysroot/usr/include/bits
+22034453      0x1503815       mcrypt 2.5 encrypted data, algorithm: ")~", keysize: 26892 bytes, mode: "-",
+22169209      0x1524679       Executable script, shebang: "/bin/sh"
+22171788      0x152508C       MySQL ISAM compressed data file Version 2
+22786887      0x15BB347       mcrypt 2.5 encrypted data, algorithm: ")~", keysize: 24340 bytes, mode: ",",
+22908145      0x15D8CF1       Executable script, shebang: "/bin/sh"
+23355617      0x16460E1       Executable script, shebang: "/bin/sh"
+23356337      0x16463B1       Executable script, shebang: "/bin/sh"
+24282412      0x172852C       xz compressed data
+24426360      0x174B778       Unix path: /samba/gitlab/hammer/Board/trunk/mining_amlogic/modules/factorL
+24436369      0x174DE91       Executable script, shebang: "/bin/sh"
+24586600      0x1772968       CRC32 polynomial table, little endian
+24590744      0x1773998       CRC32 polynomial table, big endian
+24603276      0x1776A8C       Base64 standard index table
+26259772      0x190B13C       eCos RTOS string reference: "eCost(T"
+26264087      0x190C217       Unix path: /home/jinxuhuan/miner/for_dcdn_deploy/data_pipe/src/meta'E
+26347843      0x1920943       Unix path: /common/src/utility/vod_bitmap.c
+26381122      0x1928B42       SHA256 hash constants, little endian
+26438299      0x1936A9B       Unix path: /home/jinxuhuan/miner/libs/openssl101j/\
+26465158      0x193D386       mcrypt 2.5 encrypted data, algorithm: ")}", keysize: 10500 bytes, mode: "}",
+26475846      0x193FD46       Copyright string: "Copyright 1995-2013 Jean-loup Gailly and Mark Adler "
+26481424      0x1941310       CRC32 polynomial table, big endian
+26822379      0x19946EB       Certificate in DER format (x509 v3), header length: 4, sequence length: 1296
+26930669      0x19AEDED       Unix path: /media/sda2/var/conf/teamcity/work/f8ad797f8388e51c/modules_debug//ifslinux
+27850566      0x1A8F746       Unix path: /media/sda2/var/conf/teamcity/work/f8ad797f8388e51c/modules_debug//ifslinux/ufsdvfs.c
+27852787      0x1A8FFF3       Unix path: /media/sda2/var/conf/teamcity/work/f8ad797f8388e51c/modules_debug//ifslinux/}
+27853976      0x1A90498       Unix path: /work/f8ad797f8388e51c/modules_debug//ifslinux/ufsdvfs.c, 9604
+27855210      0x1A9096A       Unix path: /media/sda2/var/conf/teamcity/work/f8ad797f8388e51c/modules_debug//ifslinux/}
+27856603      0x1A90EDB       Unix path: /media/sda2/var/conf/teamcity/work/f8ad797f8388e51c/modules_debug//ifslinux/}
+27857747      0x1A91353       Unix path: /teamcity/work/f8ad797f8388e51c/modules_debug//ifslinux/ufsdvfs.c, 934
+27859440      0x1A919F0       Unix path: /work/f8ad797f8388e51c/modules_debug//ifslinux/ufsdvfs.c, 2211
+27863665      0x1A92A71       Unix path: /UFSD_SDK/src/common/ubitmap.cpp, 3205
+27865177      0x1A93059       Unix path: /UFSD_SDK/src/ntfs/index.h, 165
+27868293      0x1A93C85       Unix path: /UFSD_SDK/src/ntfs/fsx
+27872896      0x1A94E80       Unix path: /K/src/ntfs/attrib.cpp, 81
+27875425      0x1A95861       Unix path: /UFSD_SDK/src/ntfs/dir|
+27876601      0x1A95CF9       Unix path: /UFSD_SDK/src/ntfs/frecord.cpp, 1060
+27882744      0x1A974F8       Unix path: /UFSD_SDK/src/ntfs/fslog.cpp, 2324
+27883741      0x1A978DD       Unix path: /UFSD_SDK/src/ntfs/attrlist.cpp, 680
+28111279      0x1ACF1AF       mcrypt 2.5 encrypted data, algorithm: "+}", keysize: 11096 bytes, mode: "|",
+28111289      0x1ACF1B9       mcrypt 2.5 encrypted data, algorithm: "M", keysize: 10773 bytes, mode: "|",
+28141121      0x1AD6641       Executable script, shebang: "/bin/sh"
+28142209      0x1AD6A81       Executable script, shebang: "/bin/sh"
+28144497      0x1AD7371       Executable script, shebang: "/bin/sh"
+28148217      0x1AD81F9       Executable script, shebang: "/bin/sh"
+28152929      0x1AD9461       Executable script, shebang: "/bin/bash"
+28413715      0x1B18F13       Certificate in DER format (x509 v3), header length: 4, sequence length: 3626
+28416895      0x1B19B7F       Certificate in DER format (x509 v3), header length: 4, sequence length: 3655
+28651567      0x1B5302F       mcrypt 2.5 encrypted data, algorithm: "cpy*G", keysize: 24940 bytes, mode: "z",
+29006619      0x1BA9B1B       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+29006639      0x1BA9B2F       mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+29337330      0x1BFA6F2       Unix path: /home/vincent/samba/gitlab/linux/amlogic_ws1408_linux/output/build/uboot-local/arch/arm/cpu/aml_meson/m8b/firmware/ddr.c
+29338417      0x1BFAB31       Unix path: /home/vincent/samba/gitlab/linux/amlogic_ws1408_linux/output/build/uboot-local/arch/arm/cpu/aml_meson/common/firmware/loaduboot.
+29339063      0x1BFADB7       Unix path: /home/vincent/samba/gitlab/linux/amlogic_ws1408_linux/output/build/uboot-local/arch/arm/cpu/aml_meson/m8b/firmware/pll.c
+
